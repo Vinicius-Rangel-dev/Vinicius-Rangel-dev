@@ -5,18 +5,19 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on front-end
+- 🧑‍🎓 I’m currently studying Analysis and Systems Development at UVA - Veiga de Almeida University.
+- 🔭 I’m currently working on front-end.
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript and more...
 - 📫 How to contact me: vinicius.rangel@live.com
-- <!--- 👯 I’m looking to collaborate on ...
+ <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-<!--- 😄 Pronouns: ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 <div>
-  <a href="https://beacons.ai/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Rangel-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Rangel-dev&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/Vinicius-Rangel-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Rangel-dev&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Rangel-dev&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
 
 <div>
