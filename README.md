@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🧑‍🎓 I’m currently studying Analysis and Systems Development at UVA - Veiga de Almeida University.
+- 🧑‍🎓 I’m currently studying Analysis and Systems Development at PUC - Pontifical Catholic University.
 - 🔭 I’m currently working on front-end.
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript and more...
 - 📫 How to contact me: vinicius.rangel@live.com
